@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewAdel2000
 - 👀 I’m interested in Mobile Apps development
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Whatsapp: (+20) 1023738484
 
